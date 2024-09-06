@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "img": "https://via.placeholder.com/400x400.png/0033aa?text=natus",
+    "nome": "praesentium",
+    "descricao": "Porro odio sint tene...",
+    "preco": "R$ 56,62",
+    "categoria": "aperiam"
+  },
+  {
+    "id": 2,
+    "img": "https://via.placeholder.com/400x400.png/001111?text=id",
+    "nome": "neque",
+    "descricao": "Veniam explicabo aut...",
+    "preco": "R$ 78,82",
+    "categoria": "aperiam"
+  },
+  {
+    "id": 3,
+    "img": "https://via.placeholder.com/400x400.png/005544?text=iste",
+    "nome": "voluptate",
+    "descricao": "Iure sed ut maiores...",
+    "preco": "R$ 99,23 ",
+    "categoria": "fugit"
+  },
+  {
+    "id": 4,
+    "img": "https://via.placeholder.com/400x400.png/0000bb?text=natus",
+    "nome": "qui",
+    "descricao": "Reiciendis totam vol...",
+    "preco": "R$ 99,23 ",
+    "categoria": "vitae"
+  },
+  {
+    "id": 5,
+    "img": "https://via.placeholder.com/400x400.png/006633?text=nihil",
+    "nome": "tempore",
+    "descricao": "Temporibus culpa ist...",
+    "preco": "R$ 99,23 ",
+    "categoria": "aperiam"
+  },
+  {
+    "id": 6,
+    "img": "https://via.placeholder.com/400x400.png/00ee11?text=temporibus",
+    "nome": "iusto",
+    "descricao": "Ab eum excepturi ut...",
+    "preco": "R$ 99,23 ",
+    "categoria": "vitae"
+  },
+  {
+    "id": 7,
+    "img": "https://via.placeholder.com/400x400.png/000055?text=repellendus",
+    "nome": "et",
+    "descricao": "Et nihil deserunt ve...",
+    "preco": "R$ 99,23 ",
+    "categoria": "unde"
+  },
+  {
+    "id": 8,
+    "img": "https://via.placeholder.com/400x400.png/0033ee?text=nostrum",
+    "nome": "nihil",
+    "descricao": "Autem occaecati cum...",
+    "preco": "R$ 99,23 ",
+    "categoria": "aperiam"
+  },
+  {
+    "id": 9,
+    "img": "https://via.placeholder.com/400x400.png/009900?text=et",
+    "nome": "aperiam",
+    "descricao": "Fugiat dolor tenetur...",
+    "preco": "R$ 99,23 ",
+    "categoria": "unde"
+  },
+  {
+    "id": 10,
+    "img": "https://via.placeholder.com/400x400.png/0000dd?text=inventore",
+    "nome": "earum",
+    "descricao": "Non iste itaque amet...",
+    "preco": "R$ 99,23 ",
+    "categoria": "explicabo"
+  },
+  {
+    "id": 11,
+    "img": "https://via.placeholder.com/400x400.png/0066dd?text=est",
+    "nome": "illo",
+    "descricao": "Minus impedit non na...",
+    "preco": "R$ 99,23 ",
+    "categoria": "vitae"
+  },
+  {
+    "id": 12,
+    "img": "https://via.placeholder.com/400x400.png/0066ff?text=consequatur",
+    "nome": "soluta",
+    "descricao": "Aperiam quia ab dolo...",
+    "preco": "R$ 99,23 ",
+    "categoria": "vitae"
+  },
+  {
+    "id": 13,
+    "img": "https://via.placeholder.com/400x400.png/003322?text=quia",
+    "nome": "rerum",
+    "descricao": "Delectus corporis si...",
+    "preco": "R$ 99,23 ",
+    "categoria": "explicabo"
+  },
+  {
+    "id": 14,
+    "img": "https://via.placeholder.com/400x400.png/007777?text=rerum",
+    "nome": "fugiat",
+    "descricao": "Maxime dolorem moles...",
+    "preco": "R$ 99,23 ",
+    "categoria": "unde"
+  },
+  {
+    "id": 15,
+    "img": "https://via.placeholder.com/400x400.png/0099dd?text=voluptatem",
+    "nome": "id",
+    "descricao": "Molestias voluptas c...",
+    "preco": "R$ 99,23 ",
+    "categoria": "aperiam"
+  },
+  {
+    "id": 16,
+    "img": "https://via.placeholder.com/400x400.png/005511?text=possimus",
+    "nome": "est",
+    "descricao": "Tempora recusandae q...",
+    "preco": "R$ 99,23 ",
+    "categoria": "vitae"
+  },
+  {
+    "id": 17,
+    "img": "https://via.placeholder.com/400x400.png/00ff66?text=reprehenderit",
+    "nome": "pariatur",
+    "descricao": "Provident asperiores...",
+    "preco": "R$ 99,23 ",
+    "categoria": "explicabo"
+  },
+  {
+    "id": 18,
+    "img": "https://via.placeholder.com/400x400.png/00ccdd?text=rerum",
+    "nome": "aut",
+    "descricao": "Alias et sint quas r...",
+    "preco": "R$ 99,23 ",
+    "categoria": "explicabo"
+  },
+  {
+    "id": 19,
+    "img": "https://via.placeholder.com/400x400.png/002277?text=qui",
+    "nome": "reiciendis",
+    "descricao": "Molestiae soluta qui...",
+    "preco": "R$ 99,23 ",
+    "categoria": "explicabo"
+  },
+  {
+    "id": 20,
+    "img": "https://via.placeholder.com/400x400.png/009977?text=nam",
+    "nome": "omnis",
+    "descricao": "Consequatur est temp...",
+    "preco": "R$ 99,23 ",
+    "categoria": "unde"
+  },
+  {
+    "id": 21,
+    "img": "https://via.placeholder.com/400x400.png/009978?text=nam",
+    "nome": "omnis",
+    "descricao": "Consequatur est temp...",
+    "preco": "R$ 99,23 ",
+    "categoria": "unde"
+  }
+]
